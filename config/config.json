@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "cowlar",
+    "password": "123456",
+    "database": "cowlar",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "cowlar",
+    "password": "123456",
+    "database": "cowlar",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "cowlar",
+    "password": "123456",
+    "database": "cowlar",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
